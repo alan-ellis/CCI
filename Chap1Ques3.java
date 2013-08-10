@@ -40,6 +40,6 @@ public class Chap1Ques3 {
 		System.out.println(permutation(tester1, tester2));
 		System.out.println(permutation(tester2, tester3));
 		System.out.println(permutation(tester3, tester4));
-		
+		System.out.println(1%2);
 		}
 }
